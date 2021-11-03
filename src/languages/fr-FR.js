@@ -54,7 +54,7 @@ export default {
     Delete: "Supprimer",
     Current: "Actuellement",
     Uptime: "Uptime",
-    "Cert Exp.": "Certificat expiré",
+    "Cert Exp.": "Expiration du certificat",
     days: "jours",
     day: "jour",
     "-day": "-jours",
